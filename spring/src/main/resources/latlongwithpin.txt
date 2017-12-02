@@ -1,0 +1,667 @@
+IN/301001,Alwar Jey Paltan,Rajasthan,27.45,76.5333,
+IN/301023,Itarna,Rajasthan,27.45,76.5333,
+IN/301024,Narainpur,Rajasthan,27.45,76.5333,
+IN/301028,Bahadarpur,Rajasthan,27.45,76.5333,
+IN/301029,Dariba Project Alwar,Rajasthan,27.45,76.5333,
+IN/301031,Akbarpur,Rajasthan,27.45,76.5333,4
+IN/301032,Ajabpura,Rajasthan,27.45,76.5333,
+IN/301033,Umren,Rajasthan,27.45,76.5333,
+IN/301037,Chandoli,Rajasthan,27.45,76.5333,
+IN/301042,Vijaimandir,Rajasthan,27.45,76.5333,
+IN/301043,Alaoda,Rajasthan,27.45,76.5333,
+IN/301401,Ajerka,Rajasthan,27.4,76.6333,
+IN/301403,Harsoli Alwar,Rajasthan,27.4,76.6333,
+IN/301406,Malakhera,Rajasthan,27.4,76.6333,4
+IN/301408,Rajgarh R S,Rajasthan,27.4,76.6333,
+IN/301410,Tehla,Rajasthan,27.2333,76.4,4
+IN/301411,Tijara Dehra,Rajasthan,27.9333,76.85,
+IN/301412,Harsora,Rajasthan,27.7833,76.45,4
+IN/301413,Garhi Sawairam,Rajasthan,27.65,76.5667,
+IN/301416,Saket,Rajasthan,27.65,76.5667,
+IN/301419,Machheri,Rajasthan,27.65,76.5667,
+IN/301420,Rajpur,Rajasthan,27.7833,76.5167,
+IN/301421,Ismailpur,Rajasthan,27.7833,76.5167,
+IN/301424,Tatarpur,Rajasthan,27.7833,76.5167,4
+IN/301426,Hamirpur,Rajasthan,27.7833,76.5167,
+IN/301701,Bahror H O,Rajasthan,27.5972,76.5639,
+IN/301703,Majri Kalan,Rajasthan,27.5972,76.5639,
+IN/301707,Tapukara,Rajasthan,27.5972,76.5639,
+IN/301709,Gandala,Rajasthan,27.5972,76.5639,
+IN/301712,Bagheri Kalan,Rajasthan,27.5972,76.5639,
+IN/301713,Jakharana,Rajasthan,27.5972,76.5639,
+------------------------------------------------------------------------
+
+
+
+IN/302001,P M Gs Office,Rajasthan,26.1748,74.8799,
+IN/302002,Jalebi Chowk,Rajasthan,26.1748,74.8799,
+IN/302003,Paharganj,Rajasthan,26.1748,74.8799,
+IN/302004,Rajasthan University,Rajasthan,26.1748,74.8799,
+IN/302005,Rambagh Palace,Rajasthan,26.1748,74.8799,
+IN/302006,Jaipur 6,Rajasthan,26.1748,74.8799,
+IN/302007,Jaipur 7 P M Gs Office,Rajasthan,26.1748,74.8799,
+IN/302008,Jaipur 8 G M Ts Office,Rajasthan,26.1748,74.8799,
+IN/302009,Jaipur 9 D E Ts Office,Rajasthan,26.1748,74.8799,
+IN/302010,Jaipur 10 D M Ts Office,Rajasthan,26.1748,74.8799,
+IN/302011,Jaipur 11 A P Sanganaer,Rajasthan,26.1748,74.8799,
+IN/302012,Dehar Ka Balaji,Rajasthan,26.1748,74.8799,
+IN/302013,Jaipur 13 Vishwa Karma In,Rajasthan,26.1748,74.8799,
+IN/302014,Jaipur 14 Ddapostal Jai,Rajasthan,26.1748,74.8799,
+IN/302015,Jaipur 15 Gandhinagar H O,Rajasthan,26.1748,74.8799,
+IN/302016,Jaipur 16 Shastri Nagar,Rajasthan,26.1748,74.8799,
+IN/302017,Malviya Nagar,Rajasthan,26.1748,74.8799,
+
+-------------------------------------------------------------------------------------------
+
+IN/303002,Achrol,Rajasthan,26.7,75.6,
+IN/303003,Maid,Rajasthan,26.7,75.6,
+IN/303004,Lawain,Rajasthan,26.7,75.6,
+IN/303006,Madhorajpura,Rajasthan,26.5833,75.65,4
+IN/303007,Bagru,Rajasthan,26.8167,75.55,4
+IN/303012,Kanota,Rajasthan,26.8667,75.95,4
+IN/303102,Bairath,Rajasthan,27.2167,75.95,
+IN/303103,Jaipur H O,Rajasthan,27.2167,75.95,
+IN/303105,Nareheda,Rajasthan,27.2167,75.95,
+IN/303110,Rajnota,Rajasthan,27.2167,75.95,
+IN/303112,Saiwad,Rajasthan,27.2167,75.95,
+IN/303113,Chandwaji,Rajasthan,27.2167,75.95,4
+IN/303114,Kansli Jaipur,Rajasthan,27.2167,75.95,
+IN/303116,Kalyanpura Khurd,Rajasthan,27.2167,75.95,
+IN/303118,Jaisinghpura Khor,Rajasthan,27.2167,75.95,
+IN/303209,Rabupura,Rajasthan,26.7557,75.7809,
+IN/303302,Tunga,Rajasthan,26.7333,76.15,4
+IN/303303,Dausa Mandi,Rajasthan,26.7333,76.15,
+IN/303307,Nangal Bersi,Rajasthan,26.7333,76.15,
+IN/303308,Alooda,Rajasthan,26.7333,76.15,
+IN/303329,Agri College Jobner,Rajasthan,26.7389,75.4833,
+IN/303341,Kachroda,Rajasthan,26.7417,75.15,
+IN/303348,Naraina,Rajasthan,26.7833,75.2,4
+IN/303349,Sakhun,Rajasthan,26.7,75.1,4
+IN/303502,Geejgarh,Rajasthan,26.8,76.3167,
+IN/303503,Lalsot,Rajasthan,26.5667,76.3333,4
+IN/303505,Nangal Rajwatan,Rajasthan,26.8,76.3167,
+IN/303507,Sainthal,Rajasthan,27.0333,76.3,4
+IN/303602,Badhal,Rajasthan,27.2667,75.4333,4
+IN/303604,Salt Colony,Rajasthan,27.2667,75.4333,
+IN/303608,Luniyawas,Rajasthan,27.2667,75.4333,
+IN/303609,Harsoli Jaipur,Rajasthan,27.2667,75.4333,
+IN/303611,Akoda,Rajasthan,25.5294,75.6653,4
+IN/303701,Jahota,Rajasthan,26.7557,75.7809,
+IN/303703,Tankarda,Rajasthan,26.7557,75.7809,
+IN/303704,Jaitpura,Rajasthan,26.7557,75.7809,
+IN/303705,Hadota,Rajasthan,26.7557,75.7809,
+IN/303801,Kaladera,Rajasthan,27.2,75.8167,
+IN/303804,Etawa Bhopji,Rajasthan,27.2,75.8167,
+IN/303806,Samod,Rajasthan,27.2,75.8167,4
+IN/303807,Udaipuria,Rajasthan,27.2,75.8167,
+IN/303901,Chaksu,Rajasthan,26.6,75.95,4
+IN/303905,Watika,Rajasthan,26.6417,75.9167,
+IN/303906,Bada Padampura,Rajasthan,26.6417,75.9167,
+IN/303907,Chandlai,Rajasthan,26.6833,75.8833,4
+
+------------------------------------------------------------------------
+
+IN/304001,Tonk H O,Rajasthan,26.15,75.2167,
+IN/304023,Aligarh Tonk,Rajasthan,26.15,75.2167,
+IN/304024,Uniara,Rajasthan,26.15,75.2167,4
+IN/304502,Malpura Bazar,Rajasthan,26.2833,75.3833,
+IN/304503,Lamba Hari Singh,Rajasthan,26.2167,75.4778,
+IN/304505,Toda Raisingh,Rajasthan,26.0167,75.4833,4
+IN/304506,Lawa,Rajasthan,26.35,75.5667,4
+IN/304507,Nasirda,Rajasthan,26.2167,75.4778,
+IN/304508,Chandsen,Rajasthan,26.2167,75.4778,
+IN/304509,Pachewar,Rajasthan,26.2167,75.4778,
+IN/304510,Panwalia,Rajasthan,26.2167,75.4778,
+IN/304511,Tordisagar,Rajasthan,26.2167,75.4778,
+IN/304803,Panwar Tonk,Rajasthan,25.8167,75.425,
+IN/304804,Deoli,Rajasthan,25.75,75.3833,4
+IN/304807,Rajmahal,Rajasthan,25.8833,75.4667,4
+
+----------------------------------------------------------------------------
+
+IN/305001,Ajmer,Rajasthan,26.45,74.6333,4
+IN/305002,I E Makhupura Ajmer,Rajasthan,26.45,74.6333,
+IN/305003,H M T Ajmer,Rajasthan,26.45,74.6333,
+IN/305006,Vaishalinagar Ajmer,Rajasthan,26.45,74.6333,
+IN/305007,Pal Beesla Ajmer,Rajasthan,26.45,74.6333,
+IN/305011,Sambhoogarh,Rajasthan,26.45,74.6333,
+IN/305023,Gagwana,Rajasthan,26.45,74.6333,
+IN/305024,Madar Ajmer,Rajasthan,26.45,74.6333,
+IN/305026,Thanwla,Rajasthan,26.45,74.6333,
+IN/305205,Rajgarh Ajmer,Rajasthan,26.0907,74.863,
+IN/305405,Kadera,Rajasthan,25.8,75.05,4
+IN/305408,Kalera Krishan Gopal,Rajasthan,25.7083,75.1667,
+IN/305409,Jahazpur,Rajasthan,25.6167,75.2833,4
+IN/305410,Pander,Rajasthan,26.075,75.1667,
+IN/305412,Fatehgarh,Rajasthan,26.1333,75.0167,4
+IN/305415,Baghera,Rajasthan,26.0167,75.3167,4
+IN/305601,Nasirabad Sadar Bazar,Rajasthan,26.3,74.7333,
+IN/305625,Jalia,Rajasthan,26.15,74.8167,
+IN/305627,Tantoti,Rajasthan,26.15,74.8167,4
+IN/305801,Gandhi Nagar Madanganj,Rajasthan,26.65,74.95,
+IN/305812,Harmara Ajmer,Rajasthan,26.65,74.95,
+IN/305815,Salembad Ajmer,Rajasthan,26.65,74.95,
+IN/305816,Tilonia,Rajasthan,26.65,74.95,4
+IN/305817,Ralaota Ajmer,Rajasthan,26.65,74.95,
+IN/305818,Babaicha,Rajasthan,26.65,74.95,
+IN/305923,Lotiyana,Rajasthan,25.7,73.9667,
+IN/305924,Todgarh,Rajasthan,25.7,73.9667,4
+IN/305925,Rajiawas,Rajasthan,25.7,73.9667,
+IN/305927,Kabra,Rajasthan,25.7,73.9667,
+----------------------------------------------------------------
+IN/306101,Babra,Rajasthan,26.25,74.25,4
+IN/306106,Kantalia,Rajasthan,25.7833,73.8333,4
+IN/306114,Bagrinagar,Rajasthan,26.0167,74.0417,
+IN/306116,Falna,Rajasthan,26.0167,74.0417,
+IN/306304,Madhopur,Rajasthan,26.0039,73.8406,
+IN/306306,Chandawal,Rajasthan,26.0039,73.8406,4
+IN/306308,Baloonda,Rajasthan,26.0039,73.8406,
+IN/306309,Deoli Kallan,Rajasthan,26.0039,73.8406,
+IN/306401,Pali Industrial Estate,Rajasthan,25.4337,73.5082,
+IN/306504,Nana,Rajasthan,24.9167,73.1333,4
+IN/306602,Chanaud,Rajasthan,25.3667,73.45,
+IN/306603,Nadol,Rajasthan,25.3667,73.45,4
+IN/306701,Bali Kacheri,Rajasthan,25.1833,73.2833,
+IN/306702,Sadri,Rajasthan,25.1833,73.4333,4
+IN/306703,Desuri,Rajasthan,25.2833,73.5667,4
+IN/306704,Ghanerao,Rajasthan,25.2333,73.5333,4
+IN/306706,Lunawa,Rajasthan,25.1333,73.3167,4
+IN/306902,Undri Sumerpur,Rajasthan,25.4333,72.95,
+IN/306913,Chandrai,Rajasthan,25.4333,72.95,4
+-------------------------------------------------------------------------
+
+IN/307020,Ajari,Rajasthan,24.4833,72.7833,
+IN/307026,Abu Road,Rajasthan,24.4833,72.7833,4
+IN/307027,Sabzi Mandi Sheoganj,Rajasthan,24.4833,72.7833,
+IN/307029,Ahore,Rajasthan,24.4833,72.7833,
+IN/307033,Padiv,Rajasthan,24.9167,72.7833,4
+IN/307034,Akhrabhata,Rajasthan,24.9167,72.7833,
+IN/307043,Palri,Rajasthan,25.0167,72.9167,4
+IN/307501,Abu Bazar,Rajasthan,24.6,72.7,
+IN/307512,Dantrai,Rajasthan,24.7167,72.5167,4
+IN/307802,Kalandari,Rajasthan,24.7467,72.74,
+
+------------------------------------------------------------------------
+
+IN/311022,Hurda,Rajasthan,25.5,74.675,
+IN/311024,Railagaon,Rajasthan,25.5,74.675,
+IN/311025,Hamirgarh,Rajasthan,25.1833,74.6333,4
+IN/311029,Agucha,Rajasthan,25.8167,74.7167,4
+IN/311302,Badnore,Rajasthan,25.65,74.3333,
+IN/311303,Daulatgarh,Rajasthan,25.65,74.3333,4
+IN/311402,Bagore,Rajasthan,25.3667,74.3833,4
+IN/311403,Mandal,Rajasthan,25.45,74.5667,4
+IN/311406,Kachan Kalan,Rajasthan,25.4083,74.475,
+IN/311408,Upreda,Rajasthan,25.4083,74.475,
+IN/311604,Mandalgarh,Rajasthan,25.2,75.1,4
+IN/311605,Kachhola,Rajasthan,25.2667,75.0583,
+IN/311606,Ladpura Bhilwara,Rajasthan,25.2667,75.0583,
+IN/311607,Akola Bhilwara,Rajasthan,25.2667,75.0583,
+IN/311608,Nandrai,Rajasthan,25.3333,75.0167,4
+IN/311801,Gangapur Bhilwara,Rajasthan,25.4286,74.6786,
+IN/311803,Raipur Bhilwara,Rajasthan,25.4286,74.6786,
+IN/311804,Rajaji Ka Karera,Rajasthan,25.4286,74.6786,
+IN/311806,Sahada,Rajasthan,25.4286,74.6786,
+IN/311807,Lakhola,Rajasthan,25.4286,74.6786,
+
+---------------------------------------------------------------------------
+
+IN/312202,Kapasan,Rajasthan,24.9,74.3333,4
+IN/312205,Akola Chittorgarh,Rajasthan,24.9,74.3333,
+IN/312206,Pahuna,Rajasthan,24.9,74.3333,
+IN/312208,Kankarwa,Rajasthan,24.9,74.3333,
+IN/312606,Kanera,Rajasthan,23.6667,74.85,
+IN/312609,Lasdawan,Rajasthan,23.6667,74.85,
+IN/312617,Kailash Nagar,Rajasthan,23.6667,74.85,
+IN/312618,Salamgarh,Rajasthan,23.6667,74.85,
+IN/312619,Dalot,Rajasthan,23.6667,74.85,4
+IN/312901,Gangrar,Rajasthan,25.05,74.6,4
+IN/312902,Gangrar R S,Rajasthan,25.05,74.6,
+-----------------------------------------------------------------------------
+
+IN/313001,Fatehpura,Rajasthan,25.7736,75.6278,4
+IN/313011,Badgaon,Rajasthan,25.1618,74.6306,
+IN/313012,Lakadwas,Rajasthan,25.1618,74.6306,
+IN/313014,Kanpur,Rajasthan,25.1618,74.6306,
+IN/313021,Bajaj Nagar,Rajasthan,25.1618,74.6306,
+IN/313022,Dabok,Rajasthan,25.1618,74.6306,
+IN/313023,Dabok Air Port,Rajasthan,25.1618,74.6306,
+IN/313024,Zink Smelter,Rajasthan,25.1618,74.6306,
+IN/313026,Intalikhera,Rajasthan,25.1618,74.6306,
+IN/313027,Salumbar H O,Rajasthan,25.1618,74.6306,
+IN/313029,Debari,Rajasthan,25.1618,74.6306,
+IN/313031,Nai,Rajasthan,24.55,73.6333,4
+IN/313032,Daroli,Rajasthan,24.55,73.6333,
+IN/313033,Dal,Rajasthan,24.55,73.6333,
+IN/313034,Tokar,Rajasthan,24.55,73.6333,
+IN/313202,Delwara,Rajasthan,24.6167,72.7167,4
+IN/313204,Palana Khurd,Rajasthan,24.6167,72.7167,
+IN/313205,Fatel Nagar,Rajasthan,24.6167,72.7167,
+IN/313209,Kailashpuri,Rajasthan,24.6167,72.7167,
+IN/313211,Dariba Udaipur,Rajasthan,24.6167,72.7167,
+IN/313212,Sakroda,Rajasthan,24.6167,72.7167,
+IN/313301,Nathdwara,Rajasthan,24.9333,73.8167,4
+IN/313321,Gaon Guda,Rajasthan,25.0667,73.8833,
+IN/313324,Kankroli H O,Rajasthan,25.0667,73.8833,
+IN/313326,Rajsamand,Rajasthan,25.0667,73.8833,4
+IN/313329,Railmagra,Rajasthan,25.0667,73.8833,
+IN/313330,Lawa Sardargarh,Rajasthan,25.5333,73.9,
+IN/313331,Deogarh,Rajasthan,25.5333,73.9,4
+IN/313332,Charbhuja Road Amet,Rajasthan,25.5333,73.9,
+IN/313333,Charbhuja,Rajasthan,25.5333,73.9,
+IN/313340,Chhaplian,Rajasthan,25.0667,73.8833,
+IN/313342,Kankroli,Rajasthan,25.0667,73.8833,4
+IN/313601,Vallabhnagar,Rajasthan,24.6833,74.1333,
+IN/313604,Kanore,Rajasthan,24.6833,74.1333,
+IN/313607,Lasadia,Rajasthan,24.6833,74.1333,
+IN/313608,Intali,Rajasthan,24.6833,74.1333,4
+IN/313708,Nandeshma,Rajasthan,25.359,74.0728,
+IN/313804,Chhani,Rajasthan,29.1833,75.3333,4
+IN/313901,Zawar Mines,Rajasthan,24.1833,73.8,
+IN/313904,Chawand,Rajasthan,24.1833,73.8,4
+IN/313906,Sagtara,Rajasthan,24.1833,73.8,
+IN/313907,Kalyanpur Udaipur,Rajasthan,24.1833,73.8,
+
+------------------------------------------------------------------------------
+
+IN/314011,Paldewal,Rajasthan,23.69,74.0333,
+IN/314022,Sabla,Rajasthan,23.8333,74.1833,4
+IN/314024,Padwa,Rajasthan,23.75,74.0167,4
+IN/314025,Galiakot Colony,Rajasthan,23.6833,74.0167,
+IN/314026,Galiakot,Rajasthan,23.5167,74,4
+IN/314029,Thakarda,Rajasthan,23.6667,73.95,4
+IN/314036,Damdi,Rajasthan,23.69,74.0333,
+IN/314401,Obri,Rajasthan,23.7167,73.6833,
+IN/314404,Vikasnagar,Rajasthan,23.7167,73.6833,
+IN/314405,Genji,Rajasthan,23.7167,73.6833,4
+IN/314804,Kanba,Rajasthan,23.6944,73.975,
+-----------------------------------------------------------------------------------
+
+IN/321001,Kanjoli Lines Bharatpur,Rajasthan,27.65,77.2667,
+IN/321021,Jaghina,Rajasthan,27.65,77.2667,
+IN/321022,Kaman,Rajasthan,27.65,77.2667,4
+IN/321026,Depot,Rajasthan,27.65,77.2667,
+IN/321029,Jalalpur,Rajasthan,27.65,77.2667,
+IN/321032,Kaithwara,Rajasthan,27.65,77.2667,
+IN/321033,Mai,Rajasthan,27.65,77.2667,
+IN/321034,Dehra,Rajasthan,27.65,77.2667,
+IN/321035,Isapur Katara,Rajasthan,27.65,77.2667,
+IN/321203,Deeg Court,Rajasthan,27.7167,77.0833,
+IN/321204,Pahari,Rajasthan,27.7167,77.0833,4
+IN/321205,Nagar Bharatpur,Rajasthan,27.7167,77.0833,
+IN/321208,Bahaj,Rajasthan,27.7167,77.0833,
+IN/321209,Bahtana,Rajasthan,27.7167,77.0833,
+IN/321210,Thoon,Rajasthan,27.7167,77.0833,
+IN/321302,Uchain,Rajasthan,27.1794,76.52,
+IN/321305,Ludhawai,Rajasthan,27.1794,76.52,
+IN/321406,Mahila Vidyapeeth,Rajasthan,25.6817,75.7308,
+IN/321407,Chhonkerwara Kalan,Rajasthan,25.6817,75.7308,
+IN/321408,Weir,Rajasthan,25.6817,75.7308,4
+IN/321409,Ballabhgarh,Rajasthan,25.6817,75.7308,
+IN/321413,Salempur Kalan,Rajasthan,25.6817,75.7308,
+IN/321415,Majajpur,Rajasthan,25.6817,75.7308,
+IN/321417,Itamda,Rajasthan,25.6817,75.7308,
+IN/321418,Narharpur,Rajasthan,25.6817,75.7308,
+IN/321421,Salempur Khurd,Rajasthan,25.6817,75.7308,
+IN/321423,Garhi Bajna,Rajasthan,25.6817,75.7308,
+IN/321424,Mahalpur Chura,Rajasthan,25.6817,75.7308,
+IN/321426,Jagjiwanpur,Rajasthan,25.6817,75.7308,
+IN/321506,Salasar,Rajasthan,28.0703,73.9789,4
+IN/321601,Halena,Rajasthan,27.1167,77.15,4
+IN/321602,Nadbai Town,Rajasthan,27.2333,77.2,
+IN/321603,Gadoli,Rajasthan,27.1333,77.0944,
+IN/321607,Laxmangarh,Rajasthan,27.1333,77.0944,
+IN/321608,Mahwa,Rajasthan,27.05,76.9333,4
+IN/321609,Mahwa Road,Rajasthan,27.1333,77.0944,
+IN/321611,Toda Bhim,Rajasthan,26.9167,76.8167,4
+IN/321612,Paota Bharatpur,Rajasthan,26.9167,76.8167,
+IN/321614,Akhaigarh,Rajasthan,26.9167,76.8167,
+---------------------------------------------------------------------------------
+
+IN/322001,Madhopur H O,Rajasthan,26.2167,76.6333,
+IN/322021,Town Bazar,Rajasthan,26.2167,76.6333,
+IN/322022,Sahunagar Adarshnagar,Rajasthan,26.2167,76.6333,
+IN/322023,Malarna R S,Rajasthan,26.2167,76.6333,
+IN/322028,Malarna Doongar,Rajasthan,26.2167,76.6333,
+IN/322030,Malarna Chour,Rajasthan,26.2167,76.6333,
+IN/322032,Bahraonda Khurd,Rajasthan,26.2167,76.6333,
+IN/322034,Chakeri,Rajasthan,26.2167,76.6333,
+IN/322036,Hadoti,Rajasthan,26.2167,76.6333,4
+IN/322201,Gangapur Rly Colony,Rajasthan,26.6167,76.7167,
+IN/322202,Mahu Kalan,Rajasthan,26.6167,76.7167,
+IN/322203,Narauli Dang,Rajasthan,26.6167,76.7167,
+IN/322204,Sahar,Rajasthan,26.6167,76.7167,4
+IN/322206,Udai Kalan,Rajasthan,26.6167,76.7167,
+IN/322212,Garh Moran,Rajasthan,26.7,76.5333,4
+IN/322215,Nadoti,Rajasthan,26.6333,76.7083,
+IN/322217,Liwali,Rajasthan,26.6333,76.7083,
+IN/322219,Wazirpur,Rajasthan,26.5667,76.8833,4
+IN/322223,Raipur Sawai Madhopur,Rajasthan,26.6292,76.8375,
+IN/322230,Hindaun New Mandi,Rajasthan,26.6292,76.8375,
+IN/322232,Kachroli,Rajasthan,26.6292,76.8375,
+IN/322242,Machilpur,Rajasthan,26.6333,77.2167,4
+IN/322243,Kailadevi,Rajasthan,26.6333,77.2167,
+IN/322246,Talchiri,Rajasthan,26.6333,77.2167,
+IN/322247,Chainpur,Rajasthan,26.6333,77.2167,
+IN/322248,Salempur Chowki,Rajasthan,26.6333,77.2167,
+IN/322252,Fatehsinghpur,Rajasthan,26.6292,76.8375,
+--------------------------------------------------------------------------------------
+
+IN/323001,Balchandpara Bundi,Rajasthan,25.4956,75.5903,
+IN/323021,Talera,Rajasthan,25.3167,75.7319,4
+IN/323022,Namana,Rajasthan,25.3111,75.6164,4
+IN/323023,Hindoli,Rajasthan,25.5819,75.5,4
+IN/323024,Bada Naya Gaon,Rajasthan,25.4956,75.5903,
+IN/323025,Umar,Rajasthan,25.6833,75.45,4
+IN/323026,Dablana,Rajasthan,25.5847,75.6533,4
+IN/323306,Vikramnagar,Rajasthan,25.5241,75.6864,
+IN/323603,Lakheri,Rajasthan,25.6667,76.1667,4
+IN/323613,Indergarh,Rajasthan,25.6667,76.1667,
+IN/323615,Lakheri Gaon,Rajasthan,25.6667,76.1667,
+IN/323801,Nainwan,Rajasthan,25.5241,75.6864,
+IN/323802,Del,Rajasthan,25.5241,75.6864,
+-------------------------------------------------------------------------
+
+IN/324002,W R C Kota,Rajasthan,25.6171,76.0493,
+IN/324003,Industrial Estate Kota,Rajasthan,25.6171,76.0493,
+IN/324004,Gandhi Nagar,Rajasthan,25.6171,76.0493,
+IN/324005,Talwandi,Rajasthan,25.6171,76.0493,
+IN/324006,Ghantaghar Kota,Rajasthan,25.6171,76.0493,
+IN/324007,Vallabhnagar,Rajasthan,25.6171,76.0493,
+IN/324009,Dada Bari Kota,Rajasthan,25.6171,76.0493,
+
+-------------------------------------------------------------------------------------
+IN/325001,Kaithun,Rajasthan,25.2167,75.8,
+IN/325003,Cement Factory Area,Rajasthan,25.2167,75.8,
+IN/325004,Itawa,Rajasthan,25.2167,75.8,
+IN/325007,Nanta,Rajasthan,25.2167,75.8,4
+IN/325205,Chaumukha Baran,Rajasthan,24.65,76.7667,
+IN/325208,Fatehpur Kota,Rajasthan,24.65,76.7667,
+IN/325219,Salpura,Rajasthan,24.65,76.7667,
+IN/325220,Chhabra,Rajasthan,24.6667,76.8333,4
+IN/325221,Chhipa Barod,Rajasthan,24.6333,76.7,4
+IN/325224,Garda,Rajasthan,24.65,76.7667,
+IN/325225,Harnawda Shahji Ka,Rajasthan,24.65,76.7667,
+IN/325226,Jaipla,Rajasthan,24.65,76.7667,
+IN/325602,Kanwas,Rajasthan,24.8667,76.1167,4
+
+----------------------------------------------------------------------------
+IN/326022,Bakani,Rajasthan,24.2833,76.2333,4
+IN/326033,Aklera,Rajasthan,24.4167,76.5667,4
+IN/326036,Raipur Jhalawar,Rajasthan,24.4167,76.5667,
+IN/326040,Harigarh,Rajasthan,24.6667,76.2667,4
+IN/326041,Panwar Jhalawar,Rajasthan,24.6667,76.2667,
+IN/326512,Pachpahar,Rajasthan,24.7083,75.9083,
+IN/326515,Chaumehla,Rajasthan,24.7083,75.9083,
+IN/326516,Gangdhar,Rajasthan,24.7083,75.9083,
+IN/326518,Chechat,Rajasthan,24.7667,75.8833,4
+IN/326519,Ramganj Mandi,Rajasthan,24.65,75.9333,4
+IN/326520,Undwa,Rajasthan,24.7083,75.9083,
+
+------------------------------------------------------------------------------------
+IN/327021,Ganoda,Rajasthan,23.5833,74.225,
+IN/327022,Garhi,Rajasthan,23.6,74.1333,4
+IN/327025,Talwara,Rajasthan,23.5667,74.3167,4
+IN/327026,Mahi Dam,Rajasthan,23.5833,74.225,
+IN/327028,Paloda,Rajasthan,23.5833,74.225,
+IN/327030,Danpur,Rajasthan,23.5167,74.7167,
+IN/327601,Bagidora,Rajasthan,23.55,74.2667,
+IN/327602,Sajjangarh,Rajasthan,23.55,74.2667,
+IN/327605,Loharia,Rajasthan,23.75,74.2333,4
+IN/327606,Kalinjara,Rajasthan,23.35,74.3,4
+
+------------------------------------------------------------------------------------------
+
+IN/328001,Sabzi Mandi Dholpur,Rajasthan,25.6171,76.0493,
+IN/328025,Rajakhera Bus Stand,Rajasthan,25.6171,76.0493,
+IN/328027,Saipau,Rajasthan,25.6171,76.0493,
+IN/328028,Kaisar Bagh Dholpur,Rajasthan,25.6171,76.0493,
+IN/328030,Pachgaon,Rajasthan,25.6171,76.0493,
+IN/328035,Tasimo,Rajasthan,25.6171,76.0493,
+IN/328039,Salembad Dholpur,Rajasthan,25.6171,76.0493,
+IN/328041,Kanchanpur,Rajasthan,25.6171,76.0493,
+
+--------------------------------------------------------------------------------------------
+
+IN/331001,Ghantaghar Churu,Rajasthan,27.75,74.5833,
+IN/331022,East Gate Ratangarh,Rajasthan,27.75,74.5833,
+IN/331023,Sadulpur,Rajasthan,27.75,74.5833,
+IN/331028,Malsisar,Rajasthan,27.75,74.5833,4
+IN/331030,Mahansar,Rajasthan,27.75,74.5833,
+IN/331302,Sahawa,Rajasthan,28.6833,75.0333,
+IN/331304,Taranagar,Rajasthan,28.6833,75.0333,4
+IN/331305,Hanspur,Rajasthan,28.6833,75.0333,
+IN/331403,Sabzi Mandi Sardar Shahar,Rajasthan,28.0167,74.5767,
+IN/331502,Chhapar,Rajasthan,27.8167,74.4,4
+IN/331503,Charwas,Rajasthan,27.8,74.4,4
+IN/331507,Hanumandhora,Rajasthan,27.8083,74.4,
+IN/331510,Lodsar,Rajasthan,27.8083,74.4,
+IN/331518,Lalgarh Churu,Rajasthan,27.8083,74.4,
+IN/331802,Rajaldesar,Rajasthan,28.0333,74.4667,4
+IN/331803,Kalubas Sri Dungargarh,Rajasthan,28.0333,74.4667,
+IN/331805,Lachharasar,Rajasthan,28.0333,74.4667,
+-------------------------------------------------------------------------------------------
+
+IN/332021,Bajajgram Sikar,Rajasthan,27.4,74.9167,
+IN/332025,Losal,Rajasthan,27.4,74.9167,4
+IN/332029,Ganeri,Rajasthan,27.4,74.9167,
+IN/332034,Raghunathgarh,Rajasthan,27.6667,75.35,4
+IN/332035,Harash,Rajasthan,27.6667,75.35,
+IN/332036,Dadia,Rajasthan,27.6667,75.35,
+IN/332042,Tatonwa,Rajasthan,27.5333,75.1333,
+IN/332043,Garoda,Rajasthan,27.5333,75.1333,
+IN/332301,Fatehpur H O Sekhawati,Rajasthan,27.3685,75.1833,
+IN/332305,Sadinsar,Rajasthan,27.3685,75.1833,
+IN/332306,Nabipura,Rajasthan,27.3685,75.1833,
+IN/332307,Tihawali,Rajasthan,27.3685,75.1833,
+IN/332311,Lachhmangarh Bazar,Rajasthan,27.3685,75.1833,
+IN/332318,Jajod Fatehpur,Rajasthan,27.3685,75.1833,
+IN/332401,Balaran,Rajasthan,27.4833,75.3667,
+IN/332402,Palsana,Rajasthan,27.4833,75.3667,4
+IN/332404,Hospital Road Ringas,Rajasthan,27.4833,75.3667,
+IN/332408,Malikpur,Rajasthan,31.95,74.65,
+IN/332409,Lakhni,Rajasthan,27.4833,75.3667,
+IN/332413,Dadia Rampura,Rajasthan,27.4833,75.3667,
+IN/332604,Abhawas,Rajasthan,27.3685,75.1833,
+IN/332701,Ajitgarh Amarsar,Rajasthan,27.35,75.475,
+IN/332702,Danta,Rajasthan,27.3,75.1833,4
+IN/332703,Danta Ramgarh,Rajasthan,27.35,75.475,
+IN/332704,Deorala,Rajasthan,27.4,75.7667,4
+IN/332705,Ganeshwar,Rajasthan,27.35,75.475,
+IN/332708,Kanwat Town,Rajasthan,27.35,75.475,
+IN/332715,Gaushala Road,Rajasthan,27.5333,75.75,
+IN/332717,Tiba Basai,Rajasthan,27.5333,75.75,
+IN/332719,Thoi,Rajasthan,27.5333,75.75,4
+IN/332722,Jajod Sri Madhopur,Rajasthan,27.0167,75.6083,
+IN/332724,Ganwari,Rajasthan,27.0167,75.6083,
+IN/332725,Lorwara,Rajasthan,27.0167,75.6083,
+IN/332726,Jairampura,Rajasthan,27.0667,75.6833,4
+IN/332727,Dabla Sikar,Rajasthan,27.0167,75.6083,
+IN/332728,Hod,Rajasthan,27.0167,75.6083,
+IN/332729,Pachar,Rajasthan,26.9667,75.5333,4
+IN/332731,Nathusar,Rajasthan,27.5,73.1,4
+IN/332733,Chak Gopinathpura,Rajasthan,27.5,73.1,
+IN/332734,Ralawats Sikar,Rajasthan,27.5,73.1,
+IN/332737,Chala,Rajasthan,27.5,73.1,
+IN/332738,Chaukari,Rajasthan,27.5,73.1,
+IN/332743,Hassampur,Rajasthan,27.2944,75.1694,
+-----------------------------------------------------------------------------------
+
+IN/333012,Titanwar,Rajasthan,28.1583,75.3,
+IN/333014,Bakhtawarpura,Rajasthan,28.1583,75.3,
+IN/333016,Chhawasari,Rajasthan,28.1583,75.3,
+IN/333023,Bagar,Rajasthan,28.1833,75.5,4
+IN/333024,Islampur,Rajasthan,28.25,75.3917,
+IN/333025,Alsisar,Rajasthan,28.3167,75.2833,4
+IN/333026,Hospital Road Chirawa,Rajasthan,28.25,75.3917,
+IN/333030,Kajara,Rajasthan,28.1583,75.3,
+IN/333031,V V Pilani,Rajasthan,28.1583,75.3,
+IN/333033,Jakhod,Rajasthan,28.1583,75.3,
+IN/333035,Narhar,Rajasthan,28.1583,75.3,
+IN/333038,Aduka,Rajasthan,28.1583,75.3,
+IN/333040,Ojtu,Rajasthan,28.0667,75.2083,
+IN/333042,Nawalgarh,Rajasthan,27.85,75.2667,4
+IN/333043,Tarpura,Rajasthan,28.0667,75.2083,
+IN/333046,Gangiasar,Rajasthan,28.2833,75.15,4
+IN/333047,Bajawa,Rajasthan,28.0667,75.2083,
+IN/333048,Bai,Rajasthan,28.0667,75.2083,
+IN/333302,Chhapoli,Rajasthan,27.7268,75.4294,
+IN/333305,Jakhal,Rajasthan,27.7268,75.4294,
+IN/333307,Udaipurwati,Rajasthan,27.7268,75.4294,
+IN/333310,Pachlangi,Rajasthan,27.7268,75.4294,
+IN/333315,Inderpura,Rajasthan,27.7268,75.4294,
+IN/333501,Babai,Rajasthan,27.8833,75.7667,4
+IN/333504,K C F Township Khetrinaga,Rajasthan,27.8833,75.7667,
+IN/333515,Pacheri Badi,Rajasthan,27.8833,75.7667,
+IN/333703,Hanumanpura,Rajasthan,25.8442,75.6097,4
+-----------------------------------------------------------------------------------
+
+IN/334001,Lalkar Bikaner,Rajasthan,28.0667,73.3833,
+IN/334021,Chhatargarh,Rajasthan,28.0667,73.3833,
+IN/334022,Udasar,Rajasthan,28.0667,73.3833,4
+IN/334201,Napasar,Rajasthan,27.9667,73.55,4
+IN/334301,Gajner Palace,Rajasthan,28.1905,73.5738,
+IN/334305,Bajju,Rajasthan,28.1905,73.5738,
+IN/334401,Nai Line Gangashahar,Rajasthan,27.85,73.2667,
+IN/334402,Udairmsar,Rajasthan,27.85,73.2667,
+IN/334404,Palana,Rajasthan,27.85,73.2667,4
+IN/334602,Kalu,Rajasthan,28.3833,73.8833,4
+IN/334603,Lunkaransar,Rajasthan,28.4833,73.75,4
+IN/334604,Mahajan,Rajasthan,28.7833,73.8333,4
+IN/334801,Deshnok,Rajasthan,27.8,73.35,4
+IN/334802,Himatsar,Rajasthan,27.8,73.35,
+IN/334803,Tehsil Road Nokha,Rajasthan,27.8,73.35,
+IN/334804,Panchu,Rajasthan,27.8,73.35,
+----------------------------------------------------------------------------------
+
+IN/335001,Industrial Estate Sri,Rajasthan,29.6564,73.6442,
+IN/335023,Dalpatsinghpur,Rajasthan,29.75,73.8667,
+IN/335024,Gajsinghpur,Rajasthan,29.75,73.8667,
+IN/335025,Ganeshgarh,Rajasthan,29.75,73.8667,4
+IN/335026,Ganguwala,Rajasthan,29.75,73.8667,
+IN/335037,Lalgarh Jatan,Rajasthan,29.6564,73.6442,
+IN/335041,Padampur,Rajasthan,29.6833,73.6167,4
+IN/335042,Dabla Sri Ganganagar,Rajasthan,29.6833,73.6167,
+IN/335051,Raisinghnagar,Rajasthan,29.5358,73.4492,4
+IN/335062,Sadulshahar,Rajasthan,29.6564,73.6442,
+IN/335063,V P Sangaria,Rajasthan,29.6564,73.6442,
+IN/335065,Manaksar,Rajasthan,29.6564,73.6442,
+IN/335073,Theri Sri Karanpur,Rajasthan,29.6564,73.6442,
+IN/335074,Naggi,Rajasthan,29.6564,73.6442,
+IN/335501,Bahadra Bazar,Rajasthan,28.8394,74.9897,
+IN/335502,Kalana,Rajasthan,28.8394,74.9897,
+IN/335503,Dabri,Rajasthan,28.8394,74.9897,4
+IN/335511,Chhani Bari,Rajasthan,29.1833,75.3333,
+IN/335512,Hanumangarh Jn Court,Rajasthan,29.2114,74.7532,
+IN/335513,Hanumangarh Town,Rajasthan,29.2114,74.7532,
+IN/335514,Malkhera,Rajasthan,29.2114,74.7532,
+IN/335525,Talwara Jhil,Rajasthan,29.5833,74.5167,
+IN/335526,Tibi,Rajasthan,29.5833,74.5167,4
+IN/335708,Bajuwala,Rajasthan,29.4784,74.0878,
+IN/335801,Dabali Rathan,Rajasthan,29.4784,74.0878,
+IN/335804,R C P Colony,Rajasthan,29.4784,74.0878,
+IN/335806,Panditanwalii,Rajasthan,29.4784,74.0878,
+IN/335807,Rajiasar,Rajasthan,29.4784,74.0878,
+IN/335901,Hindumalkot,Rajasthan,29.4784,74.0878,
+IN/335902,Maderan,Rajasthan,29.4784,74.0878,
+----------------------------------------------------------------------------
+
+IN/341001,Nagaur H O,Rajasthan,27.0633,73.9833,
+IN/341002,Palanipet,Rajasthan,27.0633,73.9833,
+IN/341012,Alai,Rajasthan,27.3333,73.5667,4
+IN/341022,Deh,Rajasthan,27.3,73.9,4
+IN/341023,Jael,Rajasthan,27.2167,74.1833,4
+IN/341030,Tarnau,Rajasthan,26.7333,74.1333,
+IN/341031,Padu Kallan,Rajasthan,26.7333,74.1333,
+IN/341033,Rajod,Rajasthan,26.85,74,4
+IN/341035,Padu Khurd,Rajasthan,26.6167,74.2667,4
+IN/341302,Chhoti Khatu,Rajasthan,27.65,74.3833,
+IN/341306,Ladnun,Rajasthan,27.65,74.3833,4
+IN/341313,Malar,Rajasthan,27.65,74.3833,
+IN/341319,Toshina,Rajasthan,27.65,74.3833,
+IN/341501,Badu,Rajasthan,26.8917,74.4,
+IN/341503,Degana,Rajasthan,26.8333,74.3333,4
+IN/341504,Gachhipura,Rajasthan,26.95,74.4667,4
+IN/341505,Makrana H O,Rajasthan,26.8917,74.4,
+IN/341508,Paltangate Kuchaman,Rajasthan,26.8917,74.4,
+IN/341509,Industrial Area,Rajasthan,26.8917,74.4,
+IN/341515,Harsore,Rajasthan,26.7333,74.4667,4
+IN/341517,Ladariya,Rajasthan,26.7333,74.4667,
+IN/341524,Bajwas,Rajasthan,27.2167,74.9333,
+IN/341527,Narainpura,Rajasthan,27.2167,74.9333,
+IN/341528,Panchwa,Rajasthan,27.2167,74.9333,4
+IN/341529,Bagot,Rajasthan,27.2167,74.9333,
+IN/341530,Chandarun,Rajasthan,26.9333,74.3333,4
+IN/341538,Lunwa,Rajasthan,26.9333,74.3333,
+IN/341540,Manana,Rajasthan,26.65,74.1833,
+IN/341541,Idwa,Rajasthan,26.65,74.1833,
+IN/341542,I E Bidiad,Rajasthan,26.65,74.1833,
+IN/341545,Lampolai,Rajasthan,26.65,74.1833,4
+IN/341546,Kalru,Rajasthan,26.65,74.1833,
+IN/341548,Kalwa,Rajasthan,26.65,74.1833,
+IN/341549,Tilanesh,Rajasthan,26.65,74.1833,
+---------------------------------------------------------------------------
+
+IN/342001,Nagauri Gate,Rajasthan,26.3542,72.4,
+IN/342003,Gandhi Maidan,Rajasthan,26.3542,72.4,
+IN/342006,Mahamandir Bazar,Rajasthan,26.3542,72.4,
+IN/342008,Nandanwan,Rajasthan,26.3542,72.4,
+IN/342023,Balesar,Rajasthan,26.3833,72.5,4
+IN/342026,B S F Training Centre Jod,Rajasthan,26.3778,72.3222,
+IN/342028,Tena,Rajasthan,26.3833,72.3333,4
+IN/342029,Chaba,Rajasthan,26.3667,72.1333,4
+IN/342030,Denok,Rajasthan,26.2833,72.6333,
+IN/342032,Agolai,Rajasthan,26.2833,72.6333,4
+IN/342034,Sai,Rajasthan,26.2833,72.6333,
+IN/342037,Lavera Baori,Rajasthan,26.2833,72.6333,
+IN/342302,Lohawat,Rajasthan,26.9833,72.5833,4
+IN/342303,Osian,Rajasthan,26.7167,72.9167,4
+IN/342306,Teori,Rajasthan,26.55,72.8833,4
+IN/342311,Aau,Rajasthan,26.9583,72.6917,
+IN/342312,Chadi,Rajasthan,27.1333,73.05,4
+IN/342314,Dechu,Rajasthan,26.7833,72.3333,4
+IN/342602,Hariadhana,Rajasthan,26.4,73.7833,4
+IN/342802,Luni,Rajasthan,26.0017,73.0022,4
+IN/342803,Ajit,Rajasthan,26.0592,72.9928,
+IN/342804,Salawas,Rajasthan,26.1167,72.9833,4
+---------------------------------------------------------------------------
+
+IN/343001,Jalore Suraj Pole,Rajasthan,24.9833,72.4333,
+IN/343011,Badanwari,Rajasthan,24.9833,72.4333,
+IN/343021,Umedabad,Rajasthan,25.2,72.5833,
+IN/343025,Bagra,Rajasthan,25.2,72.5833,4
+IN/343027,Hadecha,Rajasthan,25.2,72.5833,
+IN/343029,Sadar Bazar Bhinmal,Rajasthan,25.2,72.5833,
+IN/343031,Daspan,Rajasthan,24.7667,72.2833,
+IN/343032,Bagoda,Rajasthan,24.7667,72.2833,
+IN/343034,Nasoli,Rajasthan,24.7667,72.2833,
+IN/343039,Malwara,Rajasthan,24.7667,72.2833,4
+IN/343045,Thikhi,Rajasthan,24.9833,72.4333,
+IN/343048,Vadgaon,Rajasthan,24.9833,72.4333,
+
+---------------------------------------------------------------------------
+
+IN/344013,Harsani,Rajasthan,25.9667,70.7833,4
+IN/344014,Nand,Rajasthan,25.9667,70.7833,
+IN/344015,Mahabar,Rajasthan,25.9667,70.7833,
+IN/344021,Samdari,Rajasthan,25.8167,72.5833,4
+IN/344022,Balotra,Rajasthan,25.8333,72.2333,4
+IN/344023,Kanana,Rajasthan,25.8222,72.5056,
+IN/344026,Kalyanpur Barmer,Rajasthan,25.8222,72.5056,
+IN/344029,Majal,Rajasthan,25.8167,72.7,4
+IN/344030,Gagaria,Rajasthan,25.9167,72.2667,
+IN/344032,Pachpadra City,Rajasthan,25.9167,72.2667,4
+IN/344034,Baitu,Rajasthan,25.9167,72.2667,
+IN/344036,Samdari R S,Rajasthan,25.9167,72.2667,
+IN/344501,Gadra Road,Rajasthan,25.8111,72.1278,
+IN/344801,Padru,Rajasthan,25.5167,72.2,4
+
+-----------------------------------------------------------------------------------
+
+IN/345001,Jaisalmer Fort,Rajasthan,27.0958,71.4167,
+IN/345002,Jaisalmer B S F,Rajasthan,27.0958,71.4167,
+IN/345023,Ramdeora,Rajasthan,27.0167,71.9167,4
+IN/345028,Nachna,Rajasthan,27.5,71.7167,4
+IN/345029,Chandan,Rajasthan,27.2583,71.8167,
+IN/345030,Sam,Rajasthan,26.8333,70.5167,4
+IN/345031,Lathi,Rajasthan,27.0333,71.5167,4
